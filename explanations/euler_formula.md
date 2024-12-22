@@ -1,8 +1,3 @@
-<!-- MathJax Script -->
-<script type="text/javascript" id="MathJax-script" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-
 # **Euler's Formula and Its Importance** 🍌  
 
 Euler's formula is a fundamental relationship in mathematics that connects complex exponentials with trigonometric functions. It provides an elegant way to represent oscillations using complex numbers, which is essential for applications like the **Fourier Transform**.
